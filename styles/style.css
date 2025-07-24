@@ -29,14 +29,17 @@ nav ul{
 .banner{
     display: flex;
     align-items: center;
-    margin: 150px 97px;
+    margin:0px 150px 0px 97px;
+    justify-content: space-between;
 }
 .banner-greatings{
     font-size: 65px;
     font-weight: bold;
+    margin: 10px;
 }
 .front{
-    color: #252432;
+    color:black;
+    font-weight: bold;
 }
 .banner-drescription{
     font-size: 22px;
@@ -45,4 +48,16 @@ nav ul{
 .banner-profil-pic{
     width: 570px;
     height: 355px;
+}
+.banner-drescription{
+    margin: 13px;
+}
+.font-sz{
+    font-size: 50px;
+    text-align: center
+    
+    
+}
+.text-cn{
+    text-align: center;
 }
