@@ -61,3 +61,62 @@ nav ul{
 .text-cn{
     text-align: center;
 }
+
+    
+
+.card-sections{
+    width: 90%;
+    margin: auto;
+    display: flex;
+     justify-content: space-around;
+      gap: 20px;
+      padding: 20px;
+}
+    
+
+.card-container{
+    width: 100%;
+    height:auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 12px;
+    margin-bottom: 15px;
+    text-align: center;
+   
+    
+}
+
+.button{
+    background-color: #E95A08;
+    color: white;
+    font-weight:bold;
+    padding: 12px 70px;
+    font-size: 16px;
+    border: none;
+     
+}
+.flower-container{
+    display: flex;
+    justify-content: center;
+}
+.flower{
+    font-size: 50px;
+    font-weight: bold;
+}
+.flower-li{
+    margin: 15px;
+    color:rgba(0, 0, 0, 0.432) ;
+    
+}
+.row{
+    display: flex;
+}
+
+/* .rows img{
+    width: 100%;
+    padding: 50px;
+} */
+.font-size{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
